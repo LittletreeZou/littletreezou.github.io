@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Shuxian Zou / Homepage"
+title                    : "Shuxian Zou (邹淑娴)"
 title_separator          : "-"
 name                     : &name "Shuxian Zou"
-description              : &description "Master's student at CASIA."
+description              : &description "Master's student at UCAS & CASIA."
 url                      : https://littletreezou.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LittletreeZou/littletreezou.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuxian Zou"
-  avatar           : "profile.png"
-  bio              : "Master's student at CASIA. Interested in NLP and cognitive science."
+  name             : "Shuxian Zou (邹淑娴)"
+  avatar           : "my_profile.jpg"
+  bio              : "Master's student at UCAS & CASIA. Interested in NLP and cognitive science."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
