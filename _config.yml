@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Shuxian Zou (邹淑娴)"
+title                    : "Shuxian Zou's Homepage"
 title_separator          : "-"
 name                     : &name "Shuxian Zou"
 description              : &description "Master's student at UCAS & CASIA."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuxian Zou"
+  name             : "Shuxian Zou （邹淑娴）"
   avatar           : "my_profile.jpg"
   bio              : "Master's student at UCAS & CASIA. Interested in NLP and cognitive science."
   location         : "Beijing, China"
