@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,6 +16,6 @@ I have broad interests in AI and cognitive science. My current research falls in
 
 Publications
 ======
-* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding. Findings of ACL-2022. To appear.
-* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. [Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models.](https://openreview.net/pdf?id=13IJlk221xG) NeurIPS 2021 AI for Science Workshop. Online. Dec 13, 2021.
+* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54/). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics.
+* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. [Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models](https://openreview.net/pdf?id=13IJlk221xG). In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021.
 
