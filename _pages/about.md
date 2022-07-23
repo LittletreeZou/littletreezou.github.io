@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 3rd year master's student at University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Jiajun Zhang](http://www.nlpr.ia.ac.cn/cip/jjzhang.htm). And I also work closely with Dr. [Shaonan Wang](https://wangshaonan.github.io) and Prof. [Chengqing Zong](http://www.nlpr.ia.ac.cn/cip/english/zong.htm) at Institute of Automation, Chinese Academy of Sciences (CASIA). Prior to this, I received my bachelor's degree in Statistics from Sun Yat-sen University (SYSU). In 2022 Fall, I will join Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in UAE as a PhD student. 
+I am currently a 3rd year master's student at University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Jiajun Zhang](http://www.nlpr.ia.ac.cn/cip/jjzhang.htm). And I also work closely with Dr. [Shaonan Wang](https://wangshaonan.github.io) at Institute of Automation, Chinese Academy of Sciences (CASIA). Prior to this, I received my bachelor's degree in Statistics from Sun Yat-sen University (SYSU). In 2022 Fall, I will join Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in UAE as a PhD student. 
 
 Research Interests
 ======
