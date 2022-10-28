@@ -12,7 +12,7 @@ I am currently a first year PhD student at Mohamed bin Zayed University of Artif
 
 Research Interests
 ======
-I have broad interests in AI and Life Science. My current research is about AI for Drug Deiscovery, focusing on protein representation learning and protein structure prediction.
+I have broad interests in AI and Life Science. My current research is about AI for Drug Discovery. Specially, I am working on protein representation learning and protein structure prediction.
 
 Publications
 ======
