@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 3rd year master's student at University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Jiajun Zhang](http://www.nlpr.ia.ac.cn/cip/jjzhang.htm). And I also work closely with Dr. [Shaonan Wang](https://wangshaonan.github.io) at Institute of Automation, Chinese Academy of Sciences (CASIA). Prior to this, I received my bachelor's degree in Statistics from Sun Yat-sen University (SYSU). In 2022 Fall, I will join Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in UAE as a PhD student. 
+I am currently a first year PhD student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Prof. Le Song. My current research is about AI for Drug Discovery. Prior to this, I received my master's degree from University of Chinese Academy of Sciences (UCAS), supervised by Prof. Jiajun Zhang. 
 
 Research Interests
 ======
-I have broad interests in AI and cognitive science. My current research falls in the cross-domain of NLP and cognitive neuroscience, focusing on decoding language from functional brain images. 
+I have broad interests in AI and Life Science. My current research is about AI for Drug Deiscovery, focusing on protein representation learning and protein structure prediction.
 
 Publications
 ======
