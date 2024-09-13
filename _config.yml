@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "UAE"
-title                    : "Shuxian Zou's Homepage"
+title                    : "Shuxian Zou"
 title_separator          : "-"
 name                     : &name "Shuxian Zou"
 description              : &description "PhD student at MBZUAI."
