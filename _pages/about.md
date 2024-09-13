@@ -21,22 +21,5 @@ Continuous Prompts for Heterodimeric Protein Prediction](https://arxiv.org/abs/2
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54/). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics.
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. [Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models](https://openreview.net/pdf?id=13IJlk221xG). In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021.
 
-Research Experiences
-======
-* Carnegie Mellon University (CMU), Pittsburgh, USA
-  
-    Visiting Researcher at Sailing Lab (2024.6-Present)
-  
-    Foundation models for genomic sequences (protein/RNA/DNA)
-  
-* MBZUAI, Abu Dhabi, UAE
-    Graduate Researcher, FM4Bio Team                                      2022-Present
-    Foundation models for RNA science
-    Leverage LLMs for protein structure prediction
-* BioMap, Inc., Beijing, China
-    Algorithm Intern                                                      2023.7-2024.5
-    Protein-protein interaction pre-training for protein binding affinity prediction
-* Institute of Automation, Chinese Academy of Sciences, Beijing, China
-    Graduate Researcher, National Laboratory of Pattern Recognition       2019-2022
-    fMRI based brain-to-word/text decoding
+
 
