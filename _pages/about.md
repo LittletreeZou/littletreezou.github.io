@@ -24,16 +24,16 @@ Continuous Prompts for Heterodimeric Protein Prediction](https://arxiv.org/abs/2
 Research Experiences
 ======
 * Carnegie Mellon University (CMU), Pittsburgh, USA
-  ** Visiting Researcher, Sailing Lab                                      2024.6-Present
-  ** Foundation models for genomic sequences (protein/RNA/DNA)
+    Visiting Researcher, Sailing Lab                                      2024.6-Present
+    Foundation models for genomic sequences (protein/RNA/DNA)
 * MBZUAI, Abu Dhabi, UAE
-  ** Graduate Researcher, FM4Bio Team                                      2022-Present
-  ** Foundation models for RNA science
-  ** Leverage LLMs for protein structure prediction
+    Graduate Researcher, FM4Bio Team                                      2022-Present
+    Foundation models for RNA science
+    Leverage LLMs for protein structure prediction
 * BioMap, Inc., Beijing, China
-  ** Algorithm Intern                                                      2023.7-2024.5
-  ** Protein-protein interaction pre-training for protein binding affinity prediction
+    Algorithm Intern                                                      2023.7-2024.5
+    Protein-protein interaction pre-training for protein binding affinity prediction
 * Institute of Automation, Chinese Academy of Sciences, Beijing, China
-  ** Graduate Researcher, National Laboratory of Pattern Recognition       2019-2022
-  ** fMRI based brain-to-word/text decoding
+    Graduate Researcher, National Laboratory of Pattern Recognition       2019-2022
+    fMRI based brain-to-word/text decoding
 
