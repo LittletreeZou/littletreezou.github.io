@@ -24,8 +24,11 @@ Continuous Prompts for Heterodimeric Protein Prediction](https://arxiv.org/abs/2
 Research Experiences
 ======
 * Carnegie Mellon University (CMU), Pittsburgh, USA
-    Visiting Researcher, Sailing Lab                                      2024.6-Present
+  
+    Visiting Researcher at Sailing Lab (2024.6-Present)
+  
     Foundation models for genomic sequences (protein/RNA/DNA)
+  
 * MBZUAI, Abu Dhabi, UAE
     Graduate Researcher, FM4Bio Team                                      2022-Present
     Foundation models for RNA science
