@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Prof. Le Song](https://dasongle.github.io/). I also work closely with [Prof. Eric Xing](https://www.cs.cmu.edu/~epxing/) on FM4Bio projects. Prior to this, I received my master's degree in Computer Science from University of Chinese Academy of Sciences (UCAS), supervised by [Prof. Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm). During this time, I also worked closely with [Prof. Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm) and [Prof. Shaonan Wang](https://wangshaonan.github.io/) on neural decoding of fMRI images. Before this, I received my bachelor's degree in Statistics from Sun Yat-Sen University (SYSU).
+I am a third-year PhD student of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Le Song](https://dasongle.github.io/). I also work closely with [Eric Xing](https://www.cs.cmu.edu/~epxing/) on FM4Bio projects. Prior to this, I received my master's degree in Computer Science from University of Chinese Academy of Sciences (UCAS), supervised by [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm). During this time, I also worked closely with [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm) and [Shaonan Wang](https://wangshaonan.github.io/) on neural decoding of fMRI images. Before this, I received my bachelor's degree in Statistics from Sun Yat-Sen University (SYSU).
 
 Research Interests
 ======
