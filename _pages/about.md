@@ -16,6 +16,7 @@ I have broad interests in AI and Life Science. My current research direction is 
 
 Publications
 ======
+* **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Caleb N. Ellington, Robin Algayres, Dian Li, Yonghao Zhuang, Hongyi Wang, Le Song, and Eric Xing. [A Large-Scale Foundation Model for RNA Functio and Structure Prediction](https://www.biorxiv.org/content/10.1101/2024.11.28.625345v1). In NeurIPS Workshop on AI for New Drug Modalities, 2024 (spotlight).
 * **Shuxian Zou**, Hui Li, Shentong Mo, Xingyi Cheng, Eric Xing, Le Song. [Linker-Tuning: Optimizing
 Continuous Prompts for Heterodimeric Protein Prediction](https://arxiv.org/abs/2312.01186). arXiv preprint. Dec 2, 2023.
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54/). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics.
