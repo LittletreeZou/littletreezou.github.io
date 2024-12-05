@@ -12,7 +12,7 @@ I am a third-year PhD student of Machine Learning at Mohamed bin Zayed Universit
 
 Research Interests
 ======
-I have broad interests in AI and Life Science. My current research direction is AI for Life Science. In particular, I am focusing on building foundation models for genomic sequences, including DNA, RNA, and Protein. 
+I have broad interests in AI and Life Science. My current research direction is AI for Molecular Biology. In particular, I am focusing on building foundation models for genomic sequences, including DNA, RNA, and Protein. 
 
 Publications
 ======
