@@ -16,6 +16,8 @@ I have broad interests in AI and Life Science. My current research direction is 
 
 Publications
 ======
+* Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. [Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1). In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*.
+  * [\[Github\]](https://github.com/genbio-ai/ModelGenerator) 
 * **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Caleb Ellington, Robin Jonathan Algayres, Dian Li, Yonghao Zhuang, Hongyi Wang, Le Song, and Eric P. Xing. [A large-scale foundation model for RNA function and structure prediction](https://www.biorxiv.org/content/10.1101/2024.11.28.625345v1). In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**)
   *  [\[Github\]](https://github.com/genbio-ai/ModelGenerator/tree/main/experiments/AIDO.RNA) [\[Hugging Face\]](https://huggingface.co/collections/genbio-ai/aidorna-6747516bb48ed96c847f5dd8) 
 * Ning Sun, **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Dian Li, Yonghao Zhuang, Hongyi Wang, Xingyi Cheng, Le Song, and Eric P. Xing. [Mixture of experts enable efficient and effective protein understanding and design](https://openreview.net/forum?id=6VldeCDKpH). In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**)
