@@ -10,11 +10,13 @@ redirect_from:
 
 I am a final-year PhD student of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Le Song](https://dasongle.github.io/). I also work closely with [Eric Xing](https://www.cs.cmu.edu/~epxing/) on FM4Bio projects. Prior to this, I received my master's degree in Computer Science from University of Chinese Academy of Sciences (UCAS), supervised by [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm). During this time, I also worked closely with [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm) and [Shaonan Wang](https://wangshaonan.github.io/) on neural decoding of fMRI images. Before this, I received my bachelor's degree in Statistics from Sun Yat-Sen University (SYSU).
 
-**Note: I am looking for new opportunities!**
-
 Research Interests
 ======
-I have broad interests in AI and Life Science. My current research direction is AI for Molecular Biology. In particular, I am focusing on building foundation models for genomic sequences, including DNA, RNA, and Protein. 
+I have broad research interests in applying AI to life sciences, with a particular focus on neuroscience and molecular biology. My current work centers on self-supervised learning, multimodal learning, and generative models, with applications including:
+* Developing large-scale biological foundation models for RNA and proteins.
+* Predicting 3D structures of RNA and proteins.
+
+I am open to collaborations and new opportunities!
 
 Publications
 ======
