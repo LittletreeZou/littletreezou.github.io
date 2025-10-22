@@ -12,14 +12,15 @@ I am a final-year PhD student of Machine Learning at Mohamed bin Zayed Universit
 
 Research Interests
 ======
-I have broad research interests in applying AI to life sciences, with a particular focus on neuroscience and molecular biology. My current work centers on self-supervised learning, multimodal learning, and generative models, with applications including:
+I have broad research interests in applying AI to life sciences, with a particular focus on neuroscience and molecular biology. My current work centers on self-supervised learning, multimodal learning, with applications including:
 * Developing large-scale biological foundation models for RNA and proteins.
 * Predicting 3D structures of RNA and proteins.
 
 I am open to collaborations and new opportunities!
 
-Publications
+Publications/Preprints
 ======
+* **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. Accurate RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3. *Machine Learning in Structural Biology (MLSB), 2025.* >>> Poster presentation in EurIPS Copenhagen.
 * Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. [Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1). In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*.
   * [\[Github\]](https://github.com/genbio-ai/ModelGenerator) 
 * **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Caleb Ellington, Robin Jonathan Algayres, Dian Li, Yonghao Zhuang, Hongyi Wang, Le Song, and Eric P. Xing. [A large-scale foundation model for RNA function and structure prediction](https://www.biorxiv.org/content/10.1101/2024.11.28.625345v1). In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**)
