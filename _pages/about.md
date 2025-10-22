@@ -20,7 +20,7 @@ I am open to collaborations and new opportunities!
 
 Publications/Preprints
 ======
-* **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. Accurate RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3. *Machine Learning in Structural Biology (MLSB), 2025.* >>> Poster presentation in EurIPS Copenhagen.
+* **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. Accurate RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3. In *Machine Learning in Structural Biology (MLSB), 2025.* >>> Poster presentation in EurIPS Copenhagen!
 * Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. [Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1). In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*.
   * [\[Github\]](https://github.com/genbio-ai/ModelGenerator) 
 * **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Caleb Ellington, Robin Jonathan Algayres, Dian Li, Yonghao Zhuang, Hongyi Wang, Le Song, and Eric P. Xing. [A large-scale foundation model for RNA function and structure prediction](https://www.biorxiv.org/content/10.1101/2024.11.28.625345v1). In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**)
