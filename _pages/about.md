@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD student of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Le Song](https://dasongle.github.io/). I also work closely with [Eric Xing](https://www.cs.cmu.edu/~epxing/) on FM4Bio projects. Prior to this, I received my master's degree in Computer Science from University of Chinese Academy of Sciences (UCAS), supervised by [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm). During this time, I also worked closely with [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm) and [Shaonan Wang](https://wangshaonan.github.io/) on neural decoding of fMRI images. Before this, I received my bachelor's degree in Statistics from Sun Yat-Sen University (SYSU).
+I am a 4th-year PhD student in Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Le Song](https://dasongle.github.io/), and I work closely with [Eric Xing](https://www.cs.cmu.edu/~epxing/) on FM4Bio projects. 
+I completed my master’s degree in Computer Science at University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences, where I worked with [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm), [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm), and [Shaonan Wang](https://wangshaonan.github.io/) on neural decoding of fMRI images.
+
+Before entering graduate school, I spent four years working as a data analyst at China Mobile. I received my bachelor’s degree in Statistics from Sun Yat-Sen University (SYSU).
 
 Research Interests
 ======
@@ -20,7 +23,7 @@ I am open to collaborations and new opportunities!
 
 Publications/Preprints
 ======
-* **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. Improving RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3. Accepted in *Machine Learning in Structural Biology (MLSB) workshop 2025, EurIPS Copenhagen.
+* **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. Improving RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3. Accepted in *Machine Learning in Structural Biology (MLSB) workshop 2025, EurIPS Copenhagen.*
   * This project originated from our participation in the Stanford RNA 3D Folding competition — check out our [Gold Medal solution](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution).
 * Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. [Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1). In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*.
   * [\[Github\]](https://github.com/genbio-ai/ModelGenerator) 
