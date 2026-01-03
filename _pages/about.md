@@ -23,7 +23,7 @@ I am passionate about applying AI to the life sciences, particularly in neurosci
 
 Preprints
 ======
-* Youhan Lee, Shujun He, Toshiyuki Oda, ..., **Shuxian Zou**,..., Rhiju Das. **Template-based RNA structure prediction advanced through a blind code competition.** *bioRxiv preprint.* Dec 30, 2025. [\[Paper\]](https://www.biorxiv.org/content/10.64898/2025.12.30.696949v1)
+* Youhan Lee, Shujun He, Toshiyuki Oda, ..., **Shuxian Zou**, ..., David Baker, ..., Rhiju Das. **Template-based RNA structure prediction advanced through a blind code competition.** *bioRxiv preprint.* Dec 30, 2025. [\[Paper\]](https://www.biorxiv.org/content/10.64898/2025.12.30.696949v1)
   
 * **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. **Improving RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3.** Accepted in *Machine Learning in Structural Biology (MLSB) workshop 2025, EurIPS Copenhagen.* [\[Paper\]](https://www.mlsb.io/papers_2025/72.pdf)
   * This project originated from our participation in the Stanford RNA 3D Folding competition — check out our [Gold Medal solution](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution).
