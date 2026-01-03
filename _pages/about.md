@@ -37,9 +37,11 @@ Preprints
 * **Shuxian Zou**, Hui Li, Shentong Mo, Xingyi Cheng, Eric Xing, Le Song. **Linker-Tuning: Optimizing
 Continuous Prompts for Heterodimeric Protein Prediction**. *arXiv preprint.* Dec 2, 2023. [\[Paper\]](https://arxiv.org/abs/2312.01186)
 
+
 Publications
 ======
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics. [\[Paper\]](https://aclanthology.org/2022.findings-acl.54/) [\[Github\]](https://github.com/LittletreeZou/Cross-Modal-Cloze-Task)
+
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. **Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models**. In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021. [\[Paper\]](https://openreview.net/pdf?id=13IJlk221xG) 
 
 
