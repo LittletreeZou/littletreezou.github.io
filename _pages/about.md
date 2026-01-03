@@ -21,8 +21,9 @@ I have broad research interests in applying AI to life sciences, with a particul
 
 I am open to collaborations and new opportunities!
 
-Publications/Preprints
+Preprints
 ======
+* Youhan Lee, Shujun He, Toshiyuki Oda, ..., **Shuxian Zou**,..., Rhiju Das. [Template-based RNA structure prediction advanced through a blind code competition](https://www.biorxiv.org/content/10.64898/2025.12.30.696949v1). bioRxiv preprint. Dec 30, 2025.
 * **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. [Improving RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3](https://www.mlsb.io/papers_2025/72.pdf). Accepted in *Machine Learning in Structural Biology (MLSB) workshop 2025, EurIPS Copenhagen.*
   * This project originated from our participation in the Stanford RNA 3D Folding competition — check out our [Gold Medal solution](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution).
 * Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. [Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1). In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*.
@@ -33,8 +34,10 @@ Publications/Preprints
   * [\[Github\]](https://github.com/genbio-ai/ModelGenerator/tree/main/experiments/AIDO.Protein) [\[Hugging Face\]](https://huggingface.co/collections/genbio-ai/aidoprotein-6747522bc86c9ee23472b703)
 * **Shuxian Zou**, Hui Li, Shentong Mo, Xingyi Cheng, Eric Xing, Le Song. [Linker-Tuning: Optimizing
 Continuous Prompts for Heterodimeric Protein Prediction](https://arxiv.org/abs/2312.01186). arXiv preprint. Dec 2, 2023.
+
+Publications
+======
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54/). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics.
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. [Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models](https://openreview.net/pdf?id=13IJlk221xG). In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021.
-
 
 
