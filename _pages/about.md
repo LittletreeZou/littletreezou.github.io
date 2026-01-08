@@ -24,16 +24,10 @@ I am passionate about applying AI to the life sciences, particularly in neurosci
 Preprints
 ======
 * Youhan Lee, Shujun He, Toshiyuki Oda, ..., **Shuxian Zou**, ..., David Baker, ..., Rhiju Das. **Template-based RNA structure prediction advanced through a blind code competition.** *bioRxiv preprint.* Dec 30, 2025. [\[Paper\]](https://www.biorxiv.org/content/10.64898/2025.12.30.696949v1)
-  
 * **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. **Improving RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3.** Accepted in *Machine Learning in Structural Biology (MLSB) workshop 2025, EurIPS Copenhagen.* [\[Paper\]](https://www.mlsb.io/papers_2025/72.pdf)
-  * This project originated from our participation in the Stanford RNA 3D Folding competition — check out our [Gold Medal solution](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution).
-    
 * Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. **Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator.** In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*. [\[Paper\]](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1) [\[Github\]](https://github.com/genbio-ai/ModelGenerator)
-  
 * **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Caleb Ellington, Robin Jonathan Algayres, Dian Li, Yonghao Zhuang, Hongyi Wang, Le Song, and Eric P. Xing. **A large-scale foundation model for RNA function and structure prediction.** In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**) [\[Paper\]](https://www.biorxiv.org/content/10.1101/2024.11.28.625345v1) [\[Github\]](https://github.com/genbio-ai/ModelGenerator/tree/main/experiments/AIDO.RNA) [\[Hugging Face\]](https://huggingface.co/collections/genbio-ai/aidorna-6747516bb48ed96c847f5dd8)
-  
 * Ning Sun, **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Dian Li, Yonghao Zhuang, Hongyi Wang, Xingyi Cheng, Le Song, and Eric P. Xing. **Mixture of experts enable efficient and effective protein understanding and design.** In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**) [\[Paper\]](https://www.biorxiv.org/content/10.1101/2024.11.29.625425v1) [\[Github\]](https://github.com/genbio-ai/ModelGenerator/tree/main/experiments/AIDO.Protein) [\[Hugging Face\]](https://huggingface.co/collections/genbio-ai/aidoprotein-6747522bc86c9ee23472b703)
-  
 * **Shuxian Zou**, Hui Li, Shentong Mo, Xingyi Cheng, Eric Xing, Le Song. **Linker-Tuning: Optimizing
 Continuous Prompts for Heterodimeric Protein Prediction**. *arXiv preprint.* Dec 2, 2023. [\[Paper\]](https://arxiv.org/abs/2312.01186)
 
@@ -41,7 +35,6 @@ Continuous Prompts for Heterodimeric Protein Prediction**. *arXiv preprint.* Dec
 Publications
 ======
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics. [\[Paper\]](https://aclanthology.org/2022.findings-acl.54/) [\[Github\]](https://github.com/LittletreeZou/Cross-Modal-Cloze-Task)
-
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. **Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models**. In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021. [\[Paper\]](https://openreview.net/pdf?id=13IJlk221xG)
 
 
@@ -52,7 +45,6 @@ Competitions
     - Contributors: **Shuxian Zou**, Alejo Paullier, Bingkang Zhao.
     - My contributions: Augment Protenix with AIDO.RNA embeddings to improve RNA 3D structure prediction.
     - [Solution write-up](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution)
-
 * The 3rd Magic Mirror Cup – Intelligent Customer Service Question Similarity Algorithm Design (2018) - 16th out of 359 teams in the first round; 12th out of 95 teams in the final round.
     - Team: moka_tree.
     - My contributions: [Solution write-up (Chinese)](https://www.jianshu.com/p/827dd447daf9), [Github](https://github.com/LittletreeZou/Question-Pairs-Matching)
