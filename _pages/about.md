@@ -42,6 +42,18 @@ Publications
 ======
 * **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics. [\[Paper\]](https://aclanthology.org/2022.findings-acl.54/) [\[Github\]](https://github.com/LittletreeZou/Cross-Modal-Cloze-Task)
 
-* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. **Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models**. In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021. [\[Paper\]](https://openreview.net/pdf?id=13IJlk221xG) 
+* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. **Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models**. In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021. [\[Paper\]](https://openreview.net/pdf?id=13IJlk221xG)
 
+
+Competitions 
+======
+* Stanford RNA 3D Folding (Kaggle, 2025) — 6th place out of 1,516 teams (Gold Medal).
+    - Team: Littletree🎄 & Moth & Bianco.
+    - Contributors: **Shuxian Zou**, Alejo Paullier, Bingkang Zhao.
+    - My contributions: Augment Protenix with AIDO.RNA embeddings to improve RNA 3D structure prediction.
+    - [Solution write-up](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution)
+
+* The 3rd Magic Mirror Cup – Intelligent Customer Service Question Similarity Algorithm Design (2018) - 16th out of 359 teams in the first round; 12th out of 95 teams in the final round.
+    - Team: moka_tree.
+    - My contributions: [Solution write-up (Chinese)](https://www.jianshu.com/p/827dd447daf9), [Github](https://github.com/LittletreeZou/Question-Pairs-Matching)
 
