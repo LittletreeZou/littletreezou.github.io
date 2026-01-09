@@ -47,5 +47,6 @@ Competitions
     - [Solution write-up](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution)
 * The 3rd Magic Mirror Cup – Intelligent Customer Service Question Similarity Algorithm Design (2018) - 16th out of 359 teams in the first round; 12th out of 95 teams in the final round.
     - Team: moka_tree.
+    - Contributors: Lei Zhu, **Shuxian Zou**.
     - My contributions: [Solution write-up (Chinese)](https://www.jianshu.com/p/827dd447daf9), [Github](https://github.com/LittletreeZou/Question-Pairs-Matching)
 
