@@ -8,9 +8,9 @@ main:
     
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
+  
+  - title: "CV"
+  url: /files/Shuxian_Zou_CV.pdf
 
 #   - title: "Talks"
 #     url: /talks/    
