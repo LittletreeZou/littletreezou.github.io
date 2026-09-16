@@ -10,25 +10,28 @@ redirect_from:
 
 {% include base_path %}
 
-I’m a Machine Learning PhD student at MBZUAI (expected Dec 2026), advised by Prof. [Le Song](https://dasongle.github.io/). I study biomolecular foundation models for structure, gene expression, and multimodal biology.
+I am a final-year PhD candidate in Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), working with Prof. [Le Song](https://dasongle.github.io/) and Prof. [Eric Xing](https://www.cs.cmu.edu/~epxing/) on AI for Biology.
 
-I’m a research intern at GenBio AI, with prior roles at Carnegie Mellon University’s Sailing Lab (host: Prof. [Eric P. Xing](https://www.cs.cmu.edu/~epxing/)) and BioMap.
+I build biomolecular foundation models and use them for structure prediction, gene expression modeling, and multimodal learning.
 
-I earned my MSc in Computer Science at the University of Chinese Academy of Sciences, advised by Prof. [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm). At the Institute of Automation, I studied fMRI-to-language decoding with Prof. [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm), Prof. Zhang, and Dr. [Shaonan Wang](https://wangshaonan.github.io/). I hold a BSc in Statistics from Sun Yat-sen University.
+I am also a research intern at GenBio AI, with prior roles at Carnegie Mellon University’s Sailing Lab and BioMap. I won a gold medal in the 2025 Stanford RNA 3D Folding Kaggle competition.
 
-[View full CV]({{ base_path }}/cv/)
+<aside class="job-market" aria-labelledby="job-market-title">
+  <h2 id="job-market-title" class="job-market__title"><span class="job-market__dot" aria-hidden="true"></span>On the job market</h2>
+  <p class="job-market__text">I am seeking full-time Research Scientist/Engineer roles at biotech startups in Europe and the US, starting in <strong>Jan 2027</strong>.</p>
+</aside>
 
 Research Interests
 ======
 
-I use self-supervised and multimodal learning to link biological sequences to structure and function.
+I use self-supervised and multimodal learning to link biological sequences to structure, expression, and function.
 
-* **Foundation models:** core contributor to 1.6B-parameter [GB.RNA](https://huggingface.co/collections/genbio-ai/gbrna) and 16B-parameter Mixture-of-Experts [GB.Protein](https://huggingface.co/collections/genbio-ai/gbprotein), with pretraining experience on 64 NVIDIA A100 GPUs.
-* **Structure prediction:** improving RNA 3D prediction and protein modeling with language model representations.
-* **Gene expression:** predicting tissue-specific RNA isoform expression from DNA, RNA, and protein data; curating a [GTEx-derived dataset](https://huggingface.co/datasets/genbio-ai/transcript_isoform_expression_prediction).
-* **Model adaptation:** sequence-level tasks and multimodal fusion in [GB.ModelGenerator](https://github.com/genbio-ai/modelgenerator); RNA and protein evaluation on 200+ tasks.
+* **Foundation models:** Core contributor to 1.6B-parameter [GB.RNA](https://huggingface.co/collections/genbio-ai/gbrna) and 16B-parameter Mixture-of-Experts [GB.Protein](https://huggingface.co/collections/genbio-ai/gbprotein).
+* **Structure prediction:** Improve RNA 3D structure prediction and protein complex modeling using language model representations.
+* **Gene expression:** Predict tissue-specific RNA isoform expression by integrating DNA, RNA, and protein data, and curate a [GTEx-derived dataset](https://huggingface.co/datasets/genbio-ai/transcript_isoform_expression_prediction).
+* **Model adaptation:** Develop sequence-level tasks and multimodal fusion in [GB.ModelGenerator](https://github.com/genbio-ai/modelgenerator), and evaluate RNA and protein models across 200+ tasks.
 
-*Interested in RNA foundation models for mRNA therapeutics and virtual cell modeling. Seeking Research Scientist or Research Engineer roles in Europe and the US; open to collaborations.*
+*I am passionate about building the next generation of RNA foundation models for mRNA therapeutics and virtual cell modeling. Open to collaborations.*
 
 Research Experience
 ======

@@ -97,3 +97,40 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+/* Job market announcement */
+
+.job-market {
+  margin: 1.5em 0;
+  padding: 1.1em 1.25em;
+  border: 1px solid #a7ddca;
+  border-radius: 12px;
+  background: linear-gradient(110deg, #e6f3ed, #f8fcfa);
+  box-shadow: 0 2px 8px rgba(6, 95, 70, 0.04);
+
+  .job-market__title {
+    display: flex;
+    align-items: center;
+    gap: 0.65em;
+    margin: 0 0 0.5em;
+    padding: 0;
+    border: 0;
+    color: #065f46;
+    font-size: 1.125em;
+    line-height: 1.35;
+  }
+
+  .job-market__dot {
+    flex: 0 0 0.55em;
+    width: 0.55em;
+    height: 0.55em;
+    border-radius: 50%;
+    background-color: #0b875f;
+  }
+
+  .job-market__text {
+    margin: 0;
+    color: #475569;
+    line-height: 1.6;
+  }
+}
