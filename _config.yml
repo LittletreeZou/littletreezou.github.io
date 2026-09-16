@@ -10,7 +10,7 @@ locale                   : "UAE"
 title                    : "Shuxian Zou"
 title_separator          : "-"
 name                     : &name "Shuxian Zou"
-description              : &description "Machine learning researcher and PhD student at MBZUAI working on biomolecular foundation models, structure prediction, and gene expression."
+description              : &description "Machine learning PhD student at MBZUAI researching biomolecular foundation models, structure, and gene expression."
 url                      : https://littletreezou.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LittletreeZou/littletreezou.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Shuxian Zou (邹淑娴)"
   avatar           : "ShuxianZou.png"
-  bio              : "PhD student at MBZUAI. Biomolecular foundation models for RNA and proteins."
+  bio              : "PhD student at MBZUAI. RNA and protein foundation models."
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 

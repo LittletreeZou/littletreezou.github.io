@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar]({{ site.author.googlescholar }}).
+See [Google Scholar]({{ site.author.googlescholar }}) for all publications.
 
 Selected Publications and Preprints
 ======

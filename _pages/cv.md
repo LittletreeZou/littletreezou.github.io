@@ -14,17 +14,17 @@ redirect_from:
 Research Profile
 ======
 
-Machine learning researcher specializing in biomolecular foundation models, structure prediction, gene expression prediction, and multimodal learning for biology. Experienced in self-supervised learning and large-scale distributed training with PyTorch, Megatron-LM, and Hugging Face, including pretraining on 64 NVIDIA A100 GPUs.
+Machine learning researcher focused on biomolecular foundation models, structure, gene expression, and multimodal biology. Experience in self-supervised learning and distributed training with PyTorch, Megatron-LM, and Hugging Face, including pretraining on 64 NVIDIA A100 GPUs.
 
-* Core contributor to the 1.6B-parameter [GB.RNA](https://huggingface.co/collections/genbio-ai/gbrna) foundation model and the 16B-parameter Mixture-of-Experts [GB.Protein](https://huggingface.co/collections/genbio-ai/gbprotein) model.
-* Gold Medalist in the 2025 Stanford RNA 3D Folding Kaggle Competition, ranked 6th out of 1,516 teams.
+* Core contributor to 1.6B-parameter [GB.RNA](https://huggingface.co/collections/genbio-ai/gbrna) and 16B-parameter Mixture-of-Experts [GB.Protein](https://huggingface.co/collections/genbio-ai/gbprotein).
+* Stanford RNA 3D Folding (Kaggle, 2025): Gold Medal, 6th/1,516 teams.
 
 Education
 ======
 
 ### PhD in Machine Learning — Mohamed bin Zayed University of Artificial Intelligence
 
-Abu Dhabi, UAE · 2022–December 2026 (expected)
+Abu Dhabi, UAE · 2022–Dec 2026 (expected)
 
 * GPA: 3.95/4.00; full sponsorship.
 * Thesis: *Representation Learning with Foundation Models for Biomolecular Structure and Function Prediction* (in progress).
@@ -50,32 +50,32 @@ Research Experience
 
 ### Research Intern — GenBio AI
 
-Abu Dhabi, UAE · December 2024–December 2025; June 2026–present (expected through December 2026)
+Abu Dhabi, UAE · Dec 2024–Dec 2025; Jun 2026–present (expected end: Dec 2026)
 
-* Developed [GB.RNA](https://huggingface.co/genbio-ai/GB.RNA-1.6B) and [GB.RNA-CDS](https://huggingface.co/genbio-ai/GB.RNA-1.6B-CDS), foundation models for noncoding RNA and coding sequences, and evaluated them on more than 100 downstream tasks spanning RNA structure, expression, and function prediction.
-* Benchmarked [GB.Protein](https://huggingface.co/genbio-ai/GB.Protein-16B), [GB.Protein-RAG](https://huggingface.co/genbio-ai/GB.Protein-RAG-16B), and [GB.Protein2StructureToken](https://huggingface.co/genbio-ai/GB.Protein2StructureToken-16B) on ProteinGym DMS and xTrimoPGLM benchmarks for protein understanding and fitness prediction.
-* Curated a [transcript isoform expression dataset](https://huggingface.co/datasets/genbio-ai/transcript_isoform_expression_prediction) from GTEx and developed multimodal models for tissue-specific RNA isoform expression prediction, integrating DNA, RNA, and protein data.
-* Implemented sequence-level tasks and multimodal fusion in [GB.ModelGenerator](https://github.com/genbio-ai/modelgenerator), a framework for adapting pretrained biological models to downstream scientific tasks.
-* Collaborated with the RNA design team and an external contract research organization to experimentally validate designed RNA aptamers through wet-lab assays.
+* Developed [GB.RNA](https://huggingface.co/genbio-ai/GB.RNA-1.6B) and [GB.RNA-CDS](https://huggingface.co/genbio-ai/GB.RNA-1.6B-CDS) for noncoding RNA and coding sequences; evaluated them on 100+ structure, expression, and function tasks.
+* Benchmarked [GB.Protein](https://huggingface.co/genbio-ai/GB.Protein-16B), [GB.Protein-RAG](https://huggingface.co/genbio-ai/GB.Protein-RAG-16B), and [GB.Protein2StructureToken](https://huggingface.co/genbio-ai/GB.Protein2StructureToken-16B) on ProteinGym DMS and xTrimoPGLM for protein understanding and fitness prediction.
+* Curated a [GTEx transcript isoform dataset](https://huggingface.co/datasets/genbio-ai/transcript_isoform_expression_prediction); built multimodal models using DNA, RNA, and protein data to predict tissue-specific isoform expression.
+* Added sequence-level tasks and multimodal fusion to [GB.ModelGenerator](https://github.com/genbio-ai/modelgenerator).
+* Collaborated on wet-lab validation of designed RNA aptamers with the RNA design team and an external CRO.
 
 ### Visiting PhD Student — Sailing Lab, Carnegie Mellon University
 
-Pittsburgh, USA · June–September 2024 · Host: Prof. Eric P. Xing
+Pittsburgh, USA · Jun–Sep 2024 · Host: Prof. Eric P. Xing
 
-* Investigated pretraining data and strategies to scale RNA foundation models to billions of parameters and enable unified modeling of noncoding and protein-coding RNA sequences.
-* Explored efficient pretraining and downstream evaluation strategies for a 16B-parameter protein language model.
+* Studied pretraining data and strategies for billion-parameter models spanning noncoding and protein-coding RNA.
+* Explored efficient pretraining and evaluation of a 16B-parameter protein language model.
 
 ### Algorithm Intern — BioMap
 
-Beijing, China · July–September 2023
+Beijing, China · Jul–Sep 2023
 
-* Pretrained cross-modal protein models on large-scale STRING protein–protein interaction data using Megatron-LM for antibody–antigen binding affinity prediction.
+* Pretrained cross-modal protein models on STRING interaction data with Megatron-LM for antibody–antigen binding affinity prediction.
 
 ### Research Assistant — Institute of Automation, Chinese Academy of Sciences
 
-Beijing, China · July 2019–May 2022
+Beijing, China · Jul 2019–May 2022
 
-* Proposed new tasks and methods for fMRI-based brain-to-word and brain-to-text decoding using pretrained encoder–decoder language models.
+* Developed fMRI-to-word and fMRI-to-text decoding tasks and methods using pretrained encoder–decoder models.
 
 Selected Publications and Preprints
 ======
@@ -85,13 +85,13 @@ Selected Publications and Preprints
 Teaching and Additional Experience
 ======
 
-* **Teaching Assistant, MBZUAI:** Advanced Machine Learning (Spring 2025); Machine Learning with Python (Fall 2025, Fall 2026).
+* **Teaching Assistant, MBZUAI:** Advanced Machine Learning (Spring 2025); Machine Learning with Python (Fall 2025, 2026).
 * **Data Analyst, China Mobile**, Guangzhou, China — 2014–2018. Customer analysis and KPI project management.
 
 Selected Awards
 ======
 
-* **Gold Medal, Stanford RNA 3D Folding Kaggle Competition**, 2025 — ranked 6th out of 1,516 teams. [Solution write-up](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution).
+* **Gold Medal, Stanford RNA 3D Folding (Kaggle, 2025)** — 6th/1,516 teams. [Solution](https://www.kaggle.com/competitions/stanford-rna-3d-folding/writeups/6th-place-solution).
 * **Outstanding Teaching Assistant Award**, MBZUAI, Spring 2025.
 
 Skills
