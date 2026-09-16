@@ -10,7 +10,7 @@ locale                   : "UAE"
 title                    : "Shuxian Zou"
 title_separator          : "-"
 name                     : &name "Shuxian Zou"
-description              : &description "PhD student at MBZUAI."
+description              : &description "Machine learning researcher and PhD student at MBZUAI working on biomolecular foundation models, structure prediction, and gene expression."
 url                      : https://littletreezou.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LittletreeZou/littletreezou.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuxian Zou (邹淑娴)"
   avatar           : "ShuxianZou.png"
-  bio              : "PhD student at MBZUAI. AI for Biology."
+  bio              : "PhD student at MBZUAI. Biomolecular foundation models for RNA and proteins."
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qO99HOcAAAAJ&hl=en"
-  email            :
+  email            : "shuxian.zou@mbzuai.ac.ae"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shuxian-zou-littletree/"
+  linkedin         : "shuxian-zou-littletree"
   orcid            : 
   pinterest        :
   soundcloud       :

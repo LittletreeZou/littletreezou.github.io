@@ -10,7 +10,7 @@ main:
   #   url: /year-archive/
   
   - title: "CV"
-  url: /files/Shuxian_Zou_CV.pdf
+    url: /files/Shuxian_Zou_CV.pdf
 
 #   - title: "Talks"
 #     url: /talks/    

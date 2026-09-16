@@ -1,45 +1,57 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Machine learning researcher working on biomolecular foundation models, structure prediction, and gene expression."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a 4th-year PhD student in Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Prof. [Le Song](https://dasongle.github.io/), and I work closely with Prof. [Eric Xing](https://www.cs.cmu.edu/~epxing/) on FM4Bio projects. 
-I completed my master’s degree in Computer Science at University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences, where I worked with Prof. [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm), Prof. [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm), and Dr. [Shaonan Wang](https://wangshaonan.github.io/) on neural decoding of fMRI images.
+{% include base_path %}
 
-Before entering graduate school, I spent four years working as a data analyst at China Mobile. I received my bachelor’s degree in Statistics from Sun Yat-Sen University (SYSU).
+I am a PhD student in Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Prof. [Le Song](https://dasongle.github.io/), with expected completion in December 2026. My research focuses on biomolecular foundation models, structure prediction, gene expression prediction, and multimodal learning for biology. My thesis is *Representation Learning with Foundation Models for Biomolecular Structure and Function Prediction*.
+
+I am also a research intern at GenBio AI. I previously visited the Sailing Lab at Carnegie Mellon University, hosted by Prof. [Eric P. Xing](https://www.cs.cmu.edu/~epxing/), and interned at BioMap.
+
+I received my MSc in Computer Science from the University of Chinese Academy of Sciences (2019–2022), advised by Prof. [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm). At the Institute of Automation, Chinese Academy of Sciences, I worked with Prof. [Chengqing Zong](https://nlpr.ia.ac.cn/cip/english/zong.htm), Prof. Zhang, and Dr. [Shaonan Wang](https://wangshaonan.github.io/) on decoding natural language from fMRI. Before graduate school, I worked as a data analyst at China Mobile (2014–2018), after completing my BSc in Statistics at Sun Yat-sen University (2010–2014).
+
+[Download my CV (PDF)]({{ base_path }}/files/Shuxian_Zou_CV.pdf) · [View full CV]({{ base_path }}/cv/)
 
 Research Interests
 ======
-I am passionate about applying AI to the life sciences, particularly in neuroscience and molecular biology. My current work centers on self-supervised learning, multimodal learning, with applications including:
-* Developing large-scale biological foundation models for RNA and proteins.
-* Predicting 3D structures of RNA and proteins.
+
+I develop self-supervised and multimodal learning methods to connect biological sequences with their structure and function. My current work includes:
+
+* **RNA and protein foundation models:** core contributor to the 1.6B-parameter [GB.RNA](https://huggingface.co/collections/genbio-ai/gbrna) and 16B-parameter Mixture-of-Experts [GB.Protein](https://huggingface.co/collections/genbio-ai/gbprotein) models, with experience pretraining on 64 NVIDIA A100 GPUs.
+* **Biomolecular structure prediction:** using language model representations to improve RNA 3D structure prediction and protein modeling.
+* **Gene expression and multimodal biology:** predicting tissue-specific RNA isoform expression by integrating DNA, RNA, and protein data, including a [GTEx-derived transcript isoform expression dataset](https://huggingface.co/datasets/genbio-ai/transcript_isoform_expression_prediction).
+* **Model adaptation and evaluation:** developing sequence-level tasks and multimodal fusion in [GB.ModelGenerator](https://github.com/genbio-ai/modelgenerator), and evaluating RNA models on more than 100 downstream tasks.
 
 *I am open to collaborations and new opportunities!*
 
-Preprints
+Research Experience
 ======
-* Youhan Lee, Shujun He, Toshiyuki Oda, ..., **Shuxian Zou**, ..., David Baker, ..., Rhiju Das. **Template-based RNA structure prediction advanced through a blind code competition.** *bioRxiv preprint.* Dec 30, 2025. [\[Paper\]](https://www.biorxiv.org/content/10.64898/2025.12.30.696949v1)
-* **Shuxian Zou**, Jiayou Zhang, Bingkang Zhao, Hui Li, Eric P. Xing, Le Song. **Improving RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3.** Accepted in *Machine Learning in Structural Biology (MLSB) workshop 2025, EurIPS Copenhagen.* [\[Paper\]](https://www.mlsb.io/papers_2025/72.pdf)
-* Caleb N. Ellington, Dian Li, **Shuxian Zou**, Elijah Cole, Ning Sun, Sohan Addagudi, Le Song, Eric P. Xing. **Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator.** In *ICML 2025 Generative AI and Biology (GenBio) Workshop* (**Spotlight**), *ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS)*. [\[Paper\]](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1) [\[Github\]](https://github.com/genbio-ai/ModelGenerator)
-* **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Caleb Ellington, Robin Jonathan Algayres, Dian Li, Yonghao Zhuang, Hongyi Wang, Le Song, and Eric P. Xing. **A large-scale foundation model for RNA function and structure prediction.** In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**) [\[Paper\]](https://www.biorxiv.org/content/10.1101/2024.11.28.625345v1) [\[Github\]](https://github.com/genbio-ai/ModelGenerator/tree/main/experiments/AIDO.RNA) [\[Hugging Face\]](https://huggingface.co/collections/genbio-ai/aidorna-6747516bb48ed96c847f5dd8)
-* Ning Sun, **Shuxian Zou**, Tianhua Tao, Sazan Mahbub, Dian Li, Yonghao Zhuang, Hongyi Wang, Xingyi Cheng, Le Song, and Eric P. Xing. **Mixture of experts enable efficient and effective protein understanding and design.** In *NeurIPS 2024 Workshop on AI for New Drug Modalities*, 2024. (**Spotlight**) [\[Paper\]](https://www.biorxiv.org/content/10.1101/2024.11.29.625425v1) [\[Github\]](https://github.com/genbio-ai/ModelGenerator/tree/main/experiments/AIDO.Protein) [\[Hugging Face\]](https://huggingface.co/collections/genbio-ai/aidoprotein-6747522bc86c9ee23472b703)
-* **Shuxian Zou**, Hui Li, Shentong Mo, Xingyi Cheng, Eric Xing, Le Song. **Linker-Tuning: Optimizing
-Continuous Prompts for Heterodimeric Protein Prediction**. *arXiv preprint.* Dec 2, 2023. [\[Paper\]](https://arxiv.org/abs/2312.01186)
 
+* **Research Intern, GenBio AI**, Abu Dhabi, UAE — December 2024–December 2025; June 2026–present (expected through December 2026).
+* **Visiting PhD Student, Sailing Lab, Carnegie Mellon University**, Pittsburgh, USA — June–September 2024. Host: Prof. Eric P. Xing.
+* **Algorithm Intern, BioMap**, Beijing, China — July–September 2023.
+* **Research Assistant, Institute of Automation, Chinese Academy of Sciences**, Beijing, China — July 2019–May 2022.
 
-Publications
+Selected Publications and Preprints
 ======
-* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, and Chengqing Zong. **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 648–657, Dublin, Ireland. Association for Computational Linguistics. [\[Paper\]](https://aclanthology.org/2022.findings-acl.54/) [\[Github\]](https://github.com/LittletreeZou/Cross-Modal-Cloze-Task)
-* **Shuxian Zou**, Shaonan Wang, Jiajun Zhang, Chengqing Zong. **Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models**. In *NeurIPS 2021 AI for Science Workshop*. Online. Dec 13, 2021. [\[Paper\]](https://openreview.net/pdf?id=13IJlk221xG)
 
+{% include publication-list.md %}
+
+Teaching and Awards
+======
+
+* **Teaching Assistant, MBZUAI:** Advanced Machine Learning (Spring 2025); Machine Learning with Python (Fall 2025, Fall 2026).
+* **Outstanding Teaching Assistant Award**, MBZUAI, Spring 2025.
 
 Competitions 
 ======
+
 * Stanford RNA 3D Folding (Kaggle, 2025) — 6th place out of 1,516 teams (Gold Medal).
     - Team: Littletree🎄 & Moth & Bianco.
     - Contributors: **Shuxian Zou**, Alejo Paullier, Bingkang Zhao.
@@ -49,4 +61,3 @@ Competitions
     - Team: moka_tree.
     - Contributors: Lei Zhu, **Shuxian Zou**.
     - My contributions: [Solution write-up (Chinese)](https://www.jianshu.com/p/827dd447daf9), [Github](https://github.com/LittletreeZou/Question-Pairs-Matching)
-
