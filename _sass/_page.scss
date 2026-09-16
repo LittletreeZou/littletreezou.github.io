@@ -19,6 +19,19 @@
 .page,
 .archive {
   font-size: 16px;
+
+  h1 {
+    font-size: $type-size-4;
+  }
+
+  h2 {
+    font-size: 1.125em;
+  }
+
+  .page__title {
+    font-size: 1.375em;
+    line-height: 1.2;
+  }
 }
 
 .page {
