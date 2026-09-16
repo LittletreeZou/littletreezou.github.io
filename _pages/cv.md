@@ -60,7 +60,7 @@ Abu Dhabi, UAE · Dec 2024–Dec 2025; Jun 2026–present (expected end: Dec 202
 
 ### Visiting PhD Student — Sailing Lab, Carnegie Mellon University
 
-Pittsburgh, USA · Jun–Sep 2024 · Host: Prof. Eric P. Xing
+Pittsburgh, USA · Jun–Sep 2024 · Host: Prof. Eric Xing
 
 * Studied pretraining data and strategies for billion-parameter models spanning noncoding and protein-coding RNA.
 * Explored efficient pretraining and evaluation of a 16B-parameter protein language model.
@@ -85,8 +85,11 @@ Selected Publications and Preprints
 Teaching and Additional Experience
 ======
 
-* **Teaching Assistant, MBZUAI:** Advanced Machine Learning (Spring 2025); Machine Learning with Python (Fall 2025, 2026).
-* **Data Analyst, China Mobile**, Guangzhou, China — 2014–2018. Customer analysis and KPI project management.
+* **Teaching Assistant, MBZUAI:**
+  * Advanced Machine Learning (Spring 2025) — Instructors: Salem Lahlou, Tongliang Liu, Michalis Vazirgiannis, and Yuanzhi Li
+  * Machine Learning with Python (Fall 2025, 2026) — Instructor: Maxim Panov
+* **Data Analyst, China Mobile**, Guangzhou, China — 2014–2018.
+  * Customer analysis and KPI project management.
 
 Selected Awards
 ======
