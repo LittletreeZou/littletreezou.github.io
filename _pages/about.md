@@ -16,7 +16,7 @@ I am also a research intern at GenBio AI, with prior roles at Carnegie Mellon Un
 
 <aside class="job-market" aria-labelledby="job-market-title">
   <h2 id="job-market-title" class="job-market__title"><span class="job-market__dot" aria-hidden="true"></span>On the job market</h2>
-  <p class="job-market__text">I am seeking full-time Research Scientist/Engineer roles at biotech startups in Europe and the US, starting in Jan 2027.</p>
+  <p class="job-market__text">I am seeking full-time Research Scientist or Research Engineer roles in AI for biology and drug discovery across Europe and the US, starting in Jan 2027.</p>
 </aside>
 
 Research Interests
