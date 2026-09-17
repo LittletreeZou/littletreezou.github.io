@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "UAE"
-title                    : "Shuxian Zou"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shuxian Zou"
 description              : &description "Machine learning PhD student at MBZUAI researching biomolecular foundation models, structure, and gene expression."
